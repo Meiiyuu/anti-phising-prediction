@@ -1,0 +1,18 @@
+# Anti-Phishing: dependencias del proyecto
+# Instalación: pip install -r requirements.txt
+
+# Manipulación de datos y visualización
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+
+# Modelos de machine learning (RFECV, Random Forest, SVM, KNN, Naive Bayes)
+scikit-learn>=1.2
+
+# Red neuronal
+torch>=2.0
+
+# Entorno para ejecutar el notebook
+jupyter>=1.0
+ipykernel>=6.0
